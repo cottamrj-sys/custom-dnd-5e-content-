@@ -801,10 +801,10 @@
       "delete_date": null
     },
     {
-      "id": "tamer_intelligence",
-      "name": "Tamer (Intelligence)",
-      "path": "class/tamer_intelligence.rpg",
-      "last_update": "2026-08-10T19:42:49.513071",
+      "id": "eladrin_mtof",
+      "name": "Eladrin (Tome of Foes)",
+      "path": "race/eladrin_mtof.rpg",
+      "last_update": "2026-08-11T14:37:50.372918",
       "last_backup_date": null,
       "delete_date": null
     }
