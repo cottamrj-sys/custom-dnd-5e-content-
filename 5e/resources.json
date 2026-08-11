@@ -791,6 +791,14 @@
       "last_update": "2026-08-10T19:42:49.513071",
       "last_backup_date": null,
       "delete_date": null
+    },
+    {
+      "id": "helianas_golynn",
+      "name": "Golynn",
+      "path": "race/helianas_golynn.rpg",
+      "last_update": "2026-08-10T23:19:46.612199",
+      "last_backup_date": null,
+      "delete_date": null
     }
   ]
 }
