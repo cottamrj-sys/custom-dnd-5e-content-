@@ -807,6 +807,14 @@
       "last_update": "2026-08-11T14:37:50.372918",
       "last_backup_date": null,
       "delete_date": null
+    },
+    {
+      "id": "eladrin_motm",
+      "name": "Eladrin (Monsters of the Multiverse)",
+      "path": "race/eladrin_motm.rpg",
+      "last_update": "2026-08-11T14:37:50.372918",
+      "last_backup_date": null,
+      "delete_date": null
     }
   ]
 }
