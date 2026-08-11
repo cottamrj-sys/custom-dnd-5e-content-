@@ -799,6 +799,14 @@
       "last_update": "2026-08-10T23:19:46.612199",
       "last_backup_date": null,
       "delete_date": null
+    },
+    {
+      "id": "tamer_intelligence",
+      "name": "Tamer (Intelligence)",
+      "path": "class/tamer_intelligence.rpg",
+      "last_update": "2026-08-10T19:42:49.513071",
+      "last_backup_date": null,
+      "delete_date": null
     }
   ]
 }
