@@ -44,7 +44,7 @@
       "id": "74072a50-0bc6-45fd-8539-e27b24c43e8b",
       "name": "Rune of Driving Force — Prototype",
       "path": "item/74072a50-0bc6-45fd-8539-e27b24c43e8b.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -52,7 +52,7 @@
       "id": "753870f1-5152-410d-8a71-0f76f3819904",
       "name": "Rune-Covered Iron Stylus",
       "path": "item/753870f1-5152-410d-8a71-0f76f3819904.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -172,7 +172,7 @@
       "id": "248fd513-c34c-4708-b6b6-8301018ed90c",
       "name": "Rune-Scribed Whetstone",
       "path": "item/248fd513-c34c-4708-b6b6-8301018ed90c.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -180,7 +180,7 @@
       "id": "5a78f9eb-75cc-4538-82ee-d8c35d72d0f4",
       "name": "Bearer's Grip Arm-Ring",
       "path": "item/5a78f9eb-75cc-4538-82ee-d8c35d72d0f4.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -188,7 +188,7 @@
       "id": "66542ba1-0421-43ea-be49-08c8a282b9a9",
       "name": "Stone-Root Belt",
       "path": "item/66542ba1-0421-43ea-be49-08c8a282b9a9.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T18:25:40.510503+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -196,7 +196,7 @@
       "id": "448ba000-5e01-4946-b587-8f02c245013c",
       "name": "Rage-Wake Clasp",
       "path": "item/448ba000-5e01-4946-b587-8f02c245013c.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -204,15 +204,7 @@
       "id": "b66ad772-4977-472b-971b-d6183a9841c6",
       "name": "Hunter's Weather Charm",
       "path": "item/b66ad772-4977-472b-971b-d6183a9841c6.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
-      "last_backup_date": null,
-      "delete_date": null
-    },
-    {
-      "id": "32e6acad-1339-4930-875e-a4a248067118",
-      "name": "Grave-Barrow Seax",
-      "path": "item/32e6acad-1339-4930-875e-a4a248067118.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -228,7 +220,7 @@
       "id": "47f9d23b-b02c-4ab3-ad1a-7adf5c5e8376",
       "name": "Way-Key Token",
       "path": "item/47f9d23b-b02c-4ab3-ad1a-7adf5c5e8376.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -828,7 +820,7 @@
       "id": "cbe08e70-087b-4421-b4cc-9c03e277d7b9",
       "name": "Black Iron Warden Key",
       "path": "item/cbe08e70-087b-4421-b4cc-9c03e277d7b9.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -844,7 +836,7 @@
       "id": "6a86cb8c-6fc0-4ee9-bfc4-af99349fd369",
       "name": "Portable Way-box",
       "path": "item/6a86cb8c-6fc0-4ee9-bfc4-af99349fd369.rpg",
-      "last_update": "2026-08-11T21:43:46.258655+00:00",
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
       "last_backup_date": null,
       "delete_date": null
     },
@@ -879,6 +871,11 @@
       "last_update": "2026-08-12T17:48:43.503953+00:00",
       "last_backup_date": null,
       "delete_date": null
+    },
+    {
+      "name": "Grave-Barrow Seax",
+      "path": "weapon/ab8f1f53-827d-4c16-910a-ccec7bda05d8.rpg",
+      "last_update": "2026-08-12T17:59:49.339035+00:00"
     }
   ]
 }
