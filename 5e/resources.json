@@ -873,9 +873,12 @@
       "delete_date": null
     },
     {
+      "id": "ab8f1f53-827d-4c16-910a-ccec7bda05d8",
       "name": "Grave-Barrow Seax",
       "path": "weapon/ab8f1f53-827d-4c16-910a-ccec7bda05d8.rpg",
-      "last_update": "2026-08-12T17:59:49.339035+00:00"
+      "last_update": "2026-08-12T17:59:49.339035+00:00",
+      "last_backup_date": null,
+      "delete_date": null
     }
   ]
 }
